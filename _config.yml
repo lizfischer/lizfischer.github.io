@@ -6,19 +6,20 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Liz Fischer
 
 # Your name to show in the footer
-author: Some Person
+author: Liz Fischer
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Home: "https://lizmfischer.com/"
+  Research & Publications: "https://lizmfischer.com/research"
+  Teaching: "https://lizmfischer.com/teaching"
+  Digital Projects: "https://lizmfischer.com/projects"
+  Blog: "blog.lizmfischer.com"
+  CV: "https://lizmfischer.com/cv"
 
 # --- Logo --- #
 
