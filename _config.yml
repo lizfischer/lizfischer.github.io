@@ -150,7 +150,7 @@ features:
   # Feature
   - title: Explore the Ship
     description: Avoid hazards, gather items, and uncover clues about what fate befell the derelict vessel's crew.
-    icon: pe-7s-users
+    icon: pe-7s-search
 
   # Feature
   - title: Escape with the Core
