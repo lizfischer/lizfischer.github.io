@@ -144,18 +144,18 @@ features-description: Derelict is a cooperative sci-fi board game for 2-4 player
 features:
   # Feature
   - title: Choose Your Character
-    description: Select one of five playable characters--the pilot, the medic, the astrobiologist, the stevedore, or the mechanic.
-    icon: pe-7s-vector
+    description: Select one of five playable characters—the pilot, the medic, the astrobiologist, the stevedore, or the mechanic.
+    icon: pe-7s-users
 
   # Feature
   - title: Explore the Ship
     description: Avoid hazards, gather items, and uncover clues about what fate befell the derelict vessel's crew.
-    icon: pe-7s-help2
+    icon: pe-7s-users
 
   # Feature
   - title: Escape with the Core
     description: Confront one of 35 unique scenarios as you dash for the exit, nuclear core in tow.
-    icon: pe-7s-airplay
+    icon: pe-7s-prev
 
 #####################################
 ############  Portfolio  ############
