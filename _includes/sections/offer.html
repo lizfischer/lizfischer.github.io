@@ -104,7 +104,7 @@
                     <div id="sib-container" class="sib-container--large sib-container--vertical"
                          style="text-align:center; background-color:rgba(242,242,242,1); max-width:540px; border-radius:22px; border-width:3px; border-color:#46e5f9; border-style:solid; direction:ltr">
 
-                        <span class="close">&times;</span>
+                        <span id="close-modal" class="close">&times;</span>
                         <form id="sib-form" method="POST"
                               action="https://72c6620c.sibforms.com/serve/MUIFAOaN_nxoNQperxde8VHux796cojFvHeCJ_LAvKWLtcg8nfh-HxHo5rOmrj4TNezjUsD3QrOqunlNsFjFw7JMWzg0qcub7xIDO8AznPMf5b63zW1QWzT5jAocnvpm6e6UYHe0x_8U3OBK9O0QdQxWL_DQGy2HoWOxoAfjYIH_wsYD3TEbHZACfVlfN4pGQMl1w6Fz0FNjypoksw=="
                               data-type="subscription">
@@ -231,7 +231,7 @@
     .modal {
         display: none; /* Hidden by default */
         position: fixed; /* Stay in place */
-        z-index: 1; /* Sit on top */
+        z-index: 10; /* Sit on top */
         left: 0;
         top: 0;
         width: 100%; /* Full width */
@@ -273,7 +273,7 @@
     var btn = document.getElementById("myBtn");
 
     // Get the <span> element that closes the modal
-    var span = document.getElementsByClassName("close")[0];
+    var span = document.getElementById("close-modal");
 
     // When the user clicks on the button, open the modal
     btn.onclick = function () {
