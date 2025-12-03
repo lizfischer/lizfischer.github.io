@@ -135,26 +135,26 @@ about-title: Welcome to Starblaze
 #####################################
 #############  Features  ############
 #####################################
-features-title: Features
-features-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante.
+features-title: Game Play
+features-description: Derelict is a cooperative sci-fi board game for 2-4 players.
 
 #
 # Features
 #
 features:
   # Feature
-  - title: Clean & Unique Design
-    description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
+  - title: Choose Your Character
+    description: Select one of five playable characters--the pilot, the medic, the astrobiologist, the stevedore, or the mechanic.
     icon: pe-7s-vector
 
   # Feature
-  - title: Professional Support
-    description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
+  - title: Explore the Ship
+    description: Avoid hazards, gather items, and uncover clues about what fate befell the derelict ship's crew.
     icon: pe-7s-help2
 
   # Feature
-  - title: Pixel Perfect
-    description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
+  - title: Escape with the Core
+    description: Confront one of 35 unique scenarios as you dash for the exit.
     icon: pe-7s-airplay
 
 #####################################
