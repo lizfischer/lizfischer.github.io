@@ -149,12 +149,12 @@ features:
 
   # Feature
   - title: Explore the Ship
-    description: Avoid hazards, gather items, and uncover clues about what fate befell the derelict ship's crew.
+    description: Avoid hazards, gather items, and uncover clues about what fate befell the derelict vessel's crew.
     icon: pe-7s-help2
 
   # Feature
   - title: Escape with the Core
-    description: Confront one of 35 unique scenarios as you dash for the exit.
+    description: Confront one of 35 unique scenarios as you dash for the exit, nuclear core in tow.
     icon: pe-7s-airplay
 
 #####################################
