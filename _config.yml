@@ -70,7 +70,7 @@ header-tagline: Wax River Presents
 # IMPORTANT: you can modify contact form from this static template, but now works contact form works with a free external server
 # To configure this contact form, first please send a fictive email afeter you enter below your email and verify that :)
 #
-email: info@waxriver.com
+formspree: mdkqzrpd
 
 # Offer Banner Link
 # Default link is a link to all Sera OnePage products
