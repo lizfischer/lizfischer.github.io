@@ -354,10 +354,10 @@ contact-description: Questions? Send us a message!
 #####################################
 #############   Footer   ############
 #####################################
-footer-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat.
-footer-copyright-text: Ohkimur
-footer-copyright-url: https://github.com/ohkimur
-footer-copyright-year: 2021
+footer-description:
+footer-copyright-text: Wax River
+footer-copyright-url:
+footer-copyright-year: 2025
 
 
 #####################################
