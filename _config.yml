@@ -94,7 +94,7 @@ vimeo: "#"
 # About Blog Author Widget
 #
 about-widget:
-  author-avatar: logos/logo_black.png
+  author-avatar: avatars/logo_black.png
   author-name: Wax River
   author-tagline: Blog Author
   author-info: Updates from the development team at Wax River.
