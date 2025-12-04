@@ -339,12 +339,10 @@ team:
     avatar: avatar-03.jpg
 
     # Social Links
+    bluesky: "#"
     youtube: "#"
-    pinterest: "#"
     facebook: "#"
     twitter: "#"
-    google-plus: "#"
-    vimeo: "#"
 
 
 #####################################
