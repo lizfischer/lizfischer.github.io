@@ -11,7 +11,7 @@ excerpt_separator: <!--more-->
 
 Like shipwrecks on the ocean floor, abandoned spacecraft adrift in the void have long activated the imaginations of 
 both artists and audiences. Sci-fi video games such as *Dead Space*, *Star Wars: Republic Commando*, and *Alien: Isolation* 
-have all employed “ghost ship” settings to oppressively eerie effect, <!--more--> but the thrill of exploring a dodgy vessel
+have all employed “ghost ship” settings to oppressively eerie effect <!--more-->, but the thrill of exploring a dodgy vessel
 light-years away from the nearest reinforcements has not been widely adapted for the board game space. Until now!
 
 With Derelict, I set out to draw on the cosmic creepiness of *Dead Space* while also emphasizing the collaboration of 
