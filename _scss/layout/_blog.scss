@@ -127,12 +127,20 @@ section.blog-section {
           display: block;
           width: 100%;
           height: auto;
-          aspect-ratio: 4/3;
 
-          img{
-            width:100%; !important;
-            height:100%; !important;
-            object-fit: cover; !important;
+          .img-4-3{
+            aspect-ratio: 4/3;
+          }
+
+          .img-16-9 {
+            aspect-ratio: 16/9;
+          }
+
+
+          img {
+            width:100%; !important
+            height:100%; !important
+            object-fit: cover; !important
           }
         }
 
